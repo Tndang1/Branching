@@ -12,3 +12,4 @@
 * 'git branch' - List branches in repository
 * 'git branch someBranch' - Creates branch someBranch in repository
 * 'git checkout someBranch' - Move working branch to someBranch
+* 'git checkout -b anotherBranch' - Create and checkout anotherBranch
